@@ -1,0 +1,6 @@
+playwright
+pandas
+python-dotenv
+python-dateutil
+requests
+beautifulsoup4
