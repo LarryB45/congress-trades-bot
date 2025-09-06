@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# app output
+out/
+
+# playwright/cache
+playwright-report/
+test-results/
